@@ -1,1 +1,1 @@
-Test
+Is your doorbell not loud enough? Do you sometimes find you can not hear your doorbell in certain rooms of your house? Use your Amazon Alexa as an extension and make sure you never miss your doorbell ring again!  Designed with the Home Automation enthusiast in mind, using this service you can create as many doorbells as you want. Once you have linked your Alexa device, created a door bell or two, you can test them out to ensure that they sound your chosen chime, all free of charge.
