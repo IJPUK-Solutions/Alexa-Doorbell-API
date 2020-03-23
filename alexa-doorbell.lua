@@ -6,6 +6,8 @@
 %% globals
 --]]
 
+-- Fibaro HC2 edition
+
 baseUrl = "https://api.ijpuk.com"
 
 -- Visit https://www.ijpuk.com to create an account and get your doorbell key
